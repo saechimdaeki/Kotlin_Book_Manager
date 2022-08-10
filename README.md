@@ -7,3 +7,5 @@
 
 
 처음 메인 화면의 주소는 다음과 같음 http://localhost:8080/v1/index.html
+
+요구사항 추가 후 주소 http://localhost:8080/v2/index.html
